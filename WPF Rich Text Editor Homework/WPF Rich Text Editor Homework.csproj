@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>WPF_Rich_Text_Editor_Homework</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+	<UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="assets\icons8-copy-50.png" />
+    <None Remove="assets\icons8-cut-96.png" />
+    <None Remove="assets\icons8-down-96.png" />
+    <None Remove="assets\icons8-fill-color-19.png" />
+    <None Remove="assets\icons8-paste-22.png" />
+    <None Remove="assets\icons8-save-64.png" />
+    <None Remove="assets\icons8-text-color-26.png" />
+    <None Remove="icons8-word-64.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="assets\icons8-copy-50.png" />
+    <Resource Include="assets\icons8-cut-96.png" />
+    <Resource Include="assets\icons8-down-96.png" />
+    <Resource Include="assets\icons8-fill-color-19.png" />
+    <Resource Include="assets\icons8-paste-22.png" />
+    <Resource Include="assets\icons8-save-64.png" />
+    <Resource Include="assets\icons8-text-color-26.png" />
+    <Resource Include="icons8-word-64.png" />
+  </ItemGroup>
+
+</Project>

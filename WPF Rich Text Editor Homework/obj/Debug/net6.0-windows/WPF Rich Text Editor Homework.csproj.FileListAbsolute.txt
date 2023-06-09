@@ -1,0 +1,22 @@
+C:\Users\hasan\source\repos\WPF Rich Text Editor Homework\WPF Rich Text Editor Homework\bin\Debug\net6.0-windows\WPF Rich Text Editor Homework.exe
+C:\Users\hasan\source\repos\WPF Rich Text Editor Homework\WPF Rich Text Editor Homework\bin\Debug\net6.0-windows\WPF Rich Text Editor Homework.deps.json
+C:\Users\hasan\source\repos\WPF Rich Text Editor Homework\WPF Rich Text Editor Homework\bin\Debug\net6.0-windows\WPF Rich Text Editor Homework.runtimeconfig.json
+C:\Users\hasan\source\repos\WPF Rich Text Editor Homework\WPF Rich Text Editor Homework\bin\Debug\net6.0-windows\WPF Rich Text Editor Homework.dll
+C:\Users\hasan\source\repos\WPF Rich Text Editor Homework\WPF Rich Text Editor Homework\bin\Debug\net6.0-windows\WPF Rich Text Editor Homework.pdb
+C:\Users\hasan\source\repos\WPF Rich Text Editor Homework\WPF Rich Text Editor Homework\obj\Debug\net6.0-windows\WPF Rich Text Editor Homework.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\WPF Rich Text Editor Homework\WPF Rich Text Editor Homework\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\hasan\source\repos\WPF Rich Text Editor Homework\WPF Rich Text Editor Homework\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\hasan\source\repos\WPF Rich Text Editor Homework\WPF Rich Text Editor Homework\obj\Debug\net6.0-windows\WPF Rich Text Editor Homework_MarkupCompile.cache
+C:\Users\hasan\source\repos\WPF Rich Text Editor Homework\WPF Rich Text Editor Homework\obj\Debug\net6.0-windows\WPF Rich Text Editor Homework_MarkupCompile.lref
+C:\Users\hasan\source\repos\WPF Rich Text Editor Homework\WPF Rich Text Editor Homework\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\hasan\source\repos\WPF Rich Text Editor Homework\WPF Rich Text Editor Homework\obj\Debug\net6.0-windows\WPF Rich Text Editor Homework.g.resources
+C:\Users\hasan\source\repos\WPF Rich Text Editor Homework\WPF Rich Text Editor Homework\obj\Debug\net6.0-windows\WPF Rich Text Editor Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\WPF Rich Text Editor Homework\WPF Rich Text Editor Homework\obj\Debug\net6.0-windows\WPF Rich Text Editor Homework.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\WPF Rich Text Editor Homework\WPF Rich Text Editor Homework\obj\Debug\net6.0-windows\WPF Rich Text Editor Homework.AssemblyInfo.cs
+C:\Users\hasan\source\repos\WPF Rich Text Editor Homework\WPF Rich Text Editor Homework\obj\Debug\net6.0-windows\WPF Rich Text Editor Homework.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\WPF Rich Text Editor Homework\WPF Rich Text Editor Homework\obj\Debug\net6.0-windows\WPF Rich Text Editor Homework.dll
+C:\Users\hasan\source\repos\WPF Rich Text Editor Homework\WPF Rich Text Editor Homework\obj\Debug\net6.0-windows\refint\WPF Rich Text Editor Homework.dll
+C:\Users\hasan\source\repos\WPF Rich Text Editor Homework\WPF Rich Text Editor Homework\obj\Debug\net6.0-windows\WPF Rich Text Editor Homework.pdb
+C:\Users\hasan\source\repos\WPF Rich Text Editor Homework\WPF Rich Text Editor Homework\obj\Debug\net6.0-windows\WPF Rich Text Editor Homework.genruntimeconfig.cache
+C:\Users\hasan\source\repos\WPF Rich Text Editor Homework\WPF Rich Text Editor Homework\obj\Debug\net6.0-windows\ref\WPF Rich Text Editor Homework.dll
+C:\Users\hasan\source\repos\WPF Rich Text Editor Homework\WPF Rich Text Editor Homework\obj\Debug\net6.0-windows\App.baml
